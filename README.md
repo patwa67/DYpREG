@@ -1,4 +1,4 @@
-# DYpREG contains Julia code for the Davis-Yin prior Regularization method presented in Waldmann and Fan (2025 to be published). Included is also R code for the INLA and BGLR packages.
+# DYpREG contains Julia code for the Davis-Yin prior Regularization method presented in Waldmann and Fan (DOI: 10.1109/TCBBIO.2025.3642037). Included is also R code for the INLA and BGLR packages.
 
 This package DYpREG accommodates two distinct loss functions and a regularization function that can be chosen to correspond to LASSO, ridge regression (RR) or elastic net (EN). Notably, it incorporates pre-calculated breeding values, mimicking the single-step genomic approach without the need for extensive relationship matrix computations. 
 
